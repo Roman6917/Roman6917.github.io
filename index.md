@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzE3ZzVsaDY0OTNmMzU5aWpqMW8zZDVkczAga29yZHVrcm9tYW5AbQ&amp;tmsrc=kordukroman%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
 
 ###Google Form(Poll)
-<a target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSeo5wlwH0va73QcW_hhSF2a99bALFwV9lnkYY369xOHPZwgAA/viewform?usp=sf_link</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeo5wlwH0va73QcW_hhSF2a99bALFwV9lnkYY369xOHPZwgAA/viewform?usp=sf_link">Пройдіть опитування</a>
 
 ### Markdown
 
