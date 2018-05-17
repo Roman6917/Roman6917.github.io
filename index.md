@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/Roman6917/Roman6917.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<h4>University event</h4>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzE3ZzVsaDY0OTNmMzU5aWpqMW8zZDVkczAga29yZHVrcm9tYW5AbQ&amp;tmsrc=kordukroman%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
